@@ -1,0 +1,5 @@
+string string int .
+Cursos Profesor CantAlumnos .
+ALGORITMOS MARTIN 30 
+CALCULO MATTOS 40 
+COMPUTACIONAL KENNY 30 
